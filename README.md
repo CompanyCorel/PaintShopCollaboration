@@ -52,4 +52,4 @@ Reduce repetition and accelerate complex photo-editing actions with Scripts. Rec
    ...
 </details></div>
 
-Read more: [www.paintshoppro.com](https://topazlabs.com/studio/)
+Read more: [www.paintshoppro.com](https://www.paintshoppro.com)
