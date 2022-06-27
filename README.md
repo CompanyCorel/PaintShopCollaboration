@@ -1,4 +1,4 @@
-# PaintShop Pro ® 2022 version 3.8 | Promotion version
+# PaintShop Pro ® 2022 Ultimate | Promotion version
 -------------
 ![alt-текст](https://i.imgur.com/bTK1CDS.png)
 
